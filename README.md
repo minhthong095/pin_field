@@ -1,4 +1,3 @@
 # pin_field
 
-![Figure 1](/screenshot.png)
-<img src="/screenshot.png" width="540" height="1170">
+<img src="/screenshot.png" width="360" height="780">
