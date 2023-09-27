@@ -37,6 +37,7 @@ class PinField extends StatelessWidget {
       children: [
         // Only way to control keyboard in Flutter :( is using TextField
         TextField(
+          enableInteractiveSelection: false,
           controller: pinController?._textController,
           focusNode: nodeX,
           autofocus: false,
